@@ -38,7 +38,7 @@ https://www.data.jma.go.jp/gmd/risk/obsdl/
 
 
 全部で1664観測地点ありますので完了次第アップロードしていきます。  
-[2022/02/17 現在の進捗](https://github.com/hazigin/Japanese_Meteorological_data/blob/main/%E8%A6%B3%E6%B8%AC%E5%9C%B0%E7%82%B9%E4%B8%80%E8%A6%A7(%E9%80%B2%E6%8D%97%E5%85%B1%E6%9C%89%E7%94%A8).xlsx):1639/1664
+[2022/02/20 現在の進捗](https://github.com/hazigin/Japanese_Meteorological_data/blob/main/%E8%A6%B3%E6%B8%AC%E5%9C%B0%E7%82%B9%E4%B8%80%E8%A6%A7(%E9%80%B2%E6%8D%97%E5%85%B1%E6%9C%89%E7%94%A8).xlsx):1659/1664
 
 [2022/01/21]
 都道府県毎にフォルダを分けました。
