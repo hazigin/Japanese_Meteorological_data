@@ -33,18 +33,14 @@ https://www.data.jma.go.jp/gmd/risk/obsdl/
 詳細はダウンロード元である気象庁のサイトでご確認下さい。
 
 
-観測地点の一覧は　[観測地点一覧.xlsx](https://github.com/hazigin/Japanese_Meteorological_data/blob/main/%E8%A6%B3%E6%B8%AC%E5%9C%B0%E7%82%B9%E4%B8%80%E8%A6%A7.xlsx)　に記載しています。
-各観測地点について一つのcsvにまとめて、zipで圧縮しています。展開するとそれぞれ130～140M位です。
+観測地点の一覧は　[観測地点一覧.xlsx](https://github.com/hazigin/Japanese_Meteorological_data/blob/main/%E8%A6%B3%E6%B8%AC%E5%9C%B0%E7%82%B9%E4%B8%80%E8%A6%A7.xlsx)　に記載しています。 各観測地点について一つのcsvにまとめて、zipで圧縮しています。展開するとそれぞれ130～140M位です。
 
-
-全部で1664観測地点ありますので完了次第アップロードしていきます。  
-[2022/02/21 現在の進捗](https://github.com/hazigin/Japanese_Meteorological_data/blob/main/%E8%A6%B3%E6%B8%AC%E5%9C%B0%E7%82%B9%E4%B8%80%E8%A6%A7(%E9%80%B2%E6%8D%97%E5%85%B1%E6%9C%89%E7%94%A8).xlsx):1664/1664
-
-台帳上全て収集し終わったので現在確認中です(2022/2/21)
+[2022/02/21]
+全1662カ所の収集を完了しました。2022/8/9より2021年8月9～2022年8月8日までの期間のデータを収集し追加していく予定です。
 
 [2022/01/21]
 都道府県毎にフォルダを分けました。
-
+ 
 [2021/11/06]
 各観測地点の緯度/経度情報から住所と郵便番号を調べ追加しました。
 
